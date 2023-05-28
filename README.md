@@ -13,7 +13,9 @@ Una breve descripción de la motivación detrás del proyecto.
 Responder lo siguiente: ¿por qué existe el proyecto? ¿Qué problema soluciona el proyecto?
 
 ## Capturas de pantalla
-Incluir logos o capturas de pantalla de las interfaces mas relevantes del proyecto.
+
+![Video first](Preview1.png)
+
 
 ## Tecnologías/Frameworks utilizados
 Ejemplo) - ESP32
