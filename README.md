@@ -10,10 +10,10 @@ Responder lo siguiente: ¿por qué existe el proyecto? ¿Qué problema soluciona
 
 ![Video first](Preview1.png)
 ![Video first](Preview2.png)
-![Video first](Preview3.png)
+![Video first](Preview6.png)
 ![Video first](Preview4.png)
 ![Video first](Preview5.png)
-![Video first](Preview6.png)
+![Video first](Preview3.png)
 
 
 ## Tecnologías/Frameworks utilizados
