@@ -1,5 +1,5 @@
 # IMT344-Project
-# Titulo del Proyecto
+# Bolivian Signal Detection (BSD)
 Una pequeña descripción sobre su proyecto. 
 Responder lo siguiente: ¿Qué hace el proyecto? ¿De que se trata? ¿Qué componentes tiene?
 
