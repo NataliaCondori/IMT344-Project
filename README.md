@@ -1,6 +1,5 @@
 # Bolivian Signal Detection (BSD)
-Una pequeña descripción sobre su proyecto. 
-Responder lo siguiente: ¿Qué hace el proyecto? ¿De que se trata? ¿Qué componentes tiene?
+The project is Sign language detection from finger and face trajectory. For this it was necessary to create a dataset consisting of videos of 20 different signs, from this dataset we proceeded with the pre-processing part to normalize the number of frames and the size of the videos.  Mediapipe was then used to record the trajectories of the hand and parts of the face such as the eyes. Finally, a model was applied for data training, evaluation and testing.
 
 ## Motivación
 Una breve descripción de la motivación detrás del proyecto.
