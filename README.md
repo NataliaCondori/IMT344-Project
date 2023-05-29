@@ -6,14 +6,10 @@ This project took as a reference a problem present in society: social inclusion.
 
 ## Screenshots
 
-Folder with 20 corresponding signs:
 ![Video first](Preview3.png)
-Videos recorded for the dataset:
 ![Video first](Preview1.png)
 ![Video first](Preview2.png)
-Vídeos normalizados:
 ![Video first](Preview6.png)
-Images generated with Mediapipe:
 ![Video first](Preview5.png)
 ![Video first](Preview4.png)
 
@@ -25,11 +21,10 @@ Images generated with Mediapipe:
 - Google Colab
 
 ## Important functionalities
-Responder: ¿Cuáles son las funcionalidades mas interesantes de tu proyecto?
+Undoubtedly the most interesting functionality of the project is the method of using Mediapipe for optimal recognition based on the trajectories of the different parts of the hand and face. For the fingers, we use different colors, since the trajectory of each finger has a lot of weight for the prediction of the signs, additionally the use of Mediapipe in the face, such as the eyes, is due to the fact that many signs are similar but the fact of having referenced the face, provides a necessary support for a correct detection.
 
 ## Instalation
-Proveer de una guía paso a paso con ejemplos sobre como obtener un ambiente de desarrollo corriendo con el presente repositorio. 
-En el caso de tener varios repositorios, realizar la guía correspondiente para cada uno.
+
 
 ## Credits
 List of participants for this project:
