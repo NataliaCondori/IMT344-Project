@@ -3,7 +3,7 @@ The project is Sign language detection from finger and face trajectory. For this
 
 ## Motivation
 This project took as a reference a problem present in society: social inclusion. We consider that a group of people who often lack opportunities are those with hearing disabilities, in that sense we wanted to support inclusion through this model that allows to recognize sign language automatically, in this way we achieve a support for a more effective communication.
-
+ 
 ## Screenshots
 
 ![Video first](Preview3.png)
