@@ -14,7 +14,7 @@ This project took as a reference a problem present in society: social inclusion.
 ![Video first](Preview4.png)
 
 
-## Tecnologies
+## Technologies
 - Mediapipe
 - Tensorflow 
 - Google Drive
