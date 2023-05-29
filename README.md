@@ -24,7 +24,10 @@ This project took as a reference a problem present in society: social inclusion.
 Undoubtedly the most interesting functionality of the project is the method of using Mediapipe for optimal recognition based on the trajectories of the different parts of the hand and face. For the fingers, we use different colors, since the trajectory of each finger has a lot of weight for the prediction of the signs, additionally the use of Mediapipe in the face, such as the eyes, is due to the fact that many signs are similar but the fact of having referenced the face, provides a necessary support for a correct detection.
 
 ## Instalation
-
+- The first step is to have stored the videos that will be part of the dataset, it is essential that the files are stored in individual folders that will be referenced by the type of signal.
+- Then it is necessary to open the normalize.ipynb file that allows to establish a similar ratio of frames for all the videos in the dataset, the number of frames can be adjusted according to the application, these videos will be saved in the dataset folders so the original videos can be deleted.
+- Then the next step is to open the Mediapipe_detection.ipynb file that will allow to take as input the normalized videos from the previous stage, then the code applies the use of Mediapipe to find the essential points and plots them in one image per video, these images are stored for the last stage of the model.
+- Finally, the .ipynb file allows to generate a training, testing and evaluation set from the images generated with Mediapipe by mixing all the images from all of them. Note: the lines of code are commented in order to provide the necessary information for the necessary changes.
 
 ## Credits
 List of participants for this project:
